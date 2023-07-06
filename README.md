@@ -12,3 +12,9 @@ in the cloned directory type the command npm install to install the backend serv
 go to the directory frontend/eventspot/
 type npm install to install the necessary  dependancies and packeges 
 and finally run the command : npm start 
+
+
+developed by Shrjun Huusain 
+
+follow me on Instagram : https://www.instagram.com/_mr_joon/?igshid=MzNlNGNkZWQ4Mg%3D%3D
+connect me on LinkedIn : https://www.linkedin.com/in/mohamed-hussain-sharjoon-0b47471a2/
