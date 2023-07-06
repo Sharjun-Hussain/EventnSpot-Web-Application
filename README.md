@@ -1,4 +1,4 @@
-Project Documentation: Banquet Hall Booking Website
+Project Documentation: Banquet Hall Booking Website👍
 
 Introduction:
 
@@ -39,3 +39,7 @@ The frontend should now be accessible on http://localhost:3000.
 Usage and Features:
 
 Include any additional information, diagrams, or resources relevant to the project.
+
+Developed By : Sharjun Hussain 😊
+
+Connect Me On LinkedIn : https://www.linkedin.com/in/mohamed-hussain-sharjoon-0b47471a2/
