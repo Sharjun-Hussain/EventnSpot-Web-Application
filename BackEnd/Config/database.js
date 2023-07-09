@@ -1,7 +1,7 @@
 const mongoose =require('mongoose');
 
 const ConnectDB =  ()=>{
-     mongoose.connect('mongodb://127.0.0.1:27017/eventspot', {
+     mongoose.connect('mongodb+srv://Admin:Admin@cluster0.rjzjxp8.mongodb.net/eventdpot?retryWrites=true&w=majority', {
         useNewUrlParser:true,
         useUnifiedTopology:true
     }).then((con)=>{
